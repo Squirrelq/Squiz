@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "A barebones repo of a Hugo site and a Sanity studio. For following along with a tutorial on [Sanity.io](https://sanity.io).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squirrelq/Squiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Squirrelq/Squiz/issues"
+  },
+  "homepage": "https://github.com/Squirrelq/Squiz#readme",
+  "dependencies": {
+    "@sanity/block-content-to-markdown": "0.0.5",
+    "@sanity/client": "^2.2.6",
+    "fs-extra": "^9.1.0"
+  }
+}
